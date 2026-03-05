@@ -1,0 +1,8 @@
+english = 9
+history = 8
+chemistry = 6
+math = 4
+
+average = (english + history + chemistry + math) / 4
+
+print("The student's average grade is:", average)
