@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Add basic Python exercises"
+git branch -M main
+git remote add origin URL_DO_SEU_REPO
+git push -u origin main
