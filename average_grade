@@ -1,6 +1,8 @@
-git init
-git add .
-git commit -m "Add basic Python exercises"
-git branch -M main
-git remote add origin URL_DO_SEU_REPO
-git push -u origin main
+english = 9
+history = 8
+chemistry = 6
+math = 4
+
+average = (english + history + chemistry + math) / 4
+
+print("The student's average grade is:", average)
